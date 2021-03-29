@@ -9,6 +9,7 @@ Models are available in models folder
 
 image uploaded is stored in static folder
 
+Sample images are placed in sample folder.
 
 
 We take the image from user and the models behind will detect the logo present in the image.
