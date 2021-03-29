@@ -7,7 +7,7 @@ This webservice is deployed using flask.
 
 Models are available in models folder
 
-image uploaded is stored in images folder
+image uploaded is stored in static folder
 
 
 
